@@ -9,3 +9,6 @@ Comandos possiveis
   
 -how
   - Cria um arquivo de texto no diretorio atual e inseri alguns links que usei para essa atividade
+
+-help
+  - Mostra todos os comandos disponiveis nos programa
