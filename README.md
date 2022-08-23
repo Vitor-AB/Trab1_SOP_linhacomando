@@ -9,6 +9,9 @@ Comandos possiveis
   
 -how
   - Cria um arquivo de texto no diretorio atual e inseri alguns links que usei para essa atividade
+ 
+-search
+  - Procura em um arquivo de texto, a palavra providenciada
 
 -help
   - Mostra todos os comandos disponiveis no programa
